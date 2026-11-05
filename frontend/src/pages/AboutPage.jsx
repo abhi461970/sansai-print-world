@@ -20,7 +20,7 @@ const AboutPage = () => {
     <main>
       <PageHead
         label="About us"
-        title="Eight years of powering the world’s print floors."
+        title="Powering the world's print floors since 2024."
         sub="From a boutique importer of reconditioned photocopiers to a multi-country supplier of premium production machines — built one uptime hour at a time."
       />
 
@@ -47,7 +47,7 @@ const AboutPage = () => {
               </h2>
             </div>
             <div className="space-y-5 text-[16px] leading-relaxed text-[#5b6478]">
-              <p>Founded in 2017 in Chennai, Sansai Print World began by importing certified reconditioned photocopiers from Japan and Europe — machines rebuilt to factory spec and delivered with warranty.</p>
+              <p>Founded in 2024 in Chennai, Sansai Print World began by importing certified reconditioned photocopiers from Japan and Europe — machines rebuilt to factory spec and delivered with warranty.</p>
               <p>Today, we serve print shops, publishers, universities and enterprises across four countries with a mixed fleet of brand-new and reconditioned production printers, backed by a service network that resolves 92% of tickets within 4 hours.</p>
               <p>Our philosophy is simple: the machine matters less than the uptime it delivers. Everything we do — sourcing, servicing, training — protects the operator who has to hit tomorrow’s deadline.</p>
             </div>
