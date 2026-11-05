@@ -14,7 +14,7 @@ export const company = {
   website: "www.sansaiprintworld.in",
   address: "1B, Alsa Pasadena, Ground Floor, 44, Halls Road, Kilpauk, Chennai - 600010",
   hours: "Mon–Sat, 10am–6pm IST",
-  since: "Since 2017 · India · UAE · SG · MY",
+  since: "Since 2024 · India · UAE · SG · MY",
 };
 
 export const navLinks = [
