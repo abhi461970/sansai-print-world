@@ -5,10 +5,10 @@ export const company = {
   legalName: "Sansai Print World Pvt. Ltd.",
   contactPerson: "Geetha",
   contactRole: "Senior Manager",
-  phone: "+91 70929 28022",
+  phone: "+91 70929 28021",
   phoneRaw: "+917092928022",
   phone2: "+91 70929 28021",
-  phone2Raw: "+917092928021",
+  phone2Raw: "+917092928022",
   email: "geetha@sansaiprintworld.in",
   email2: "vikram@sansaiprintworld.in",
   website: "www.sansaiprintworld.in",
@@ -127,8 +127,8 @@ export const faqs = [
 ];
 
 export const milestones = [
-  { year: "2017", title: "Founded", desc: "Started importing reconditioned photocopiers to India from Japan and Europe." },
-  { year: "2019", title: "PAN-India Reach", desc: "Expanded service network across 15+ Indian cities with rapid-response teams." },
+  { year: "2024", title: "Founded", desc: "Started importing reconditioned photocopiers to India from Japan and Europe." },
+  { year: "2026", title: "PAN-India Reach", desc: "Expanded service network across 15+ Indian cities with rapid-response teams." },
   { year: "2021", title: "Global Exports", desc: "Started exporting to UAE, Malaysia and Singapore with certified installations." },
   { year: "2024", title: "Brand-New Range", desc: "Launched brand-new lineup with Xerox, Ricoh, Canon and Konica-Minolta partnerships." },
   { year: "2025", title: "Smart Fleet", desc: "Rolled out IoT-connected fleet with remote diagnostics and predictive maintenance." },
